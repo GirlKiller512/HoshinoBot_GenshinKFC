@@ -6,7 +6,7 @@ from hoshino import R, Service, priv
 sv = Service('genshinkfc', enable_on_default=True, visible=False)
 
 
-@sv.on_fullmatch(('KFC', 'kfc', '原神KFC', '原神kfc', '二次元KFC', '二次元kfc'))
+@sv.on_fullmatch(('KFC', 'kfc', '原神KFC', '原神kfc', '二次元KFC', '二次元kfc', '异世相遇尽享美味'))
 async def kfc(bot, ev) -> MessageSegment:
     try:
         rec = MessageSegment.record(f'file:///{os.path.dirname(__file__)}/genshinkfc.mp3')
