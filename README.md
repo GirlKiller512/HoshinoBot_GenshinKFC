@@ -12,8 +12,17 @@
 ## 安装方法
 
 1. 安装ffmpeg
+
+   Ubuntu：`apt install ffmpeg`
+
+   CentOS：比较复杂，建议自行查找方法
+
+   （我用的是Ubuntu 20.04所以懒得找CentOS的安装方法）（小声）
+
 2. 将`genshinkfc`目录放入`hoshino/modules`目录中
+
 3. 打开`hoshino/config/__bot__.py`，在`MODULES_ON`中加入`genshinkfc`并保存
+
 4. 重启HoshinoBot
 
 ## 指令
