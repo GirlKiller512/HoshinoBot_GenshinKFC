@@ -64,7 +64,7 @@ TODO：
 
 
 
-## Original Text (Kana To Chinese Character)
+## Original Text (Kana To Chinese Character, Transliteration)
 
 呐呐呐，服务员欧尼酱~~
 
