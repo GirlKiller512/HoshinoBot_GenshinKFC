@@ -4,7 +4,7 @@
 
 Let Hoshino utter the voice from the 2D world!
 
-**（Meet in Another World, Savour Deliciousness!）**
+**（Meet In Another World, Savour Deliciousness!）**
 
 Currently Held Voice:
 
@@ -27,7 +27,7 @@ TODO：
 
 2. Put  `genshinkfc` directory into `hoshino/modules` directory
 
-3. Open `hoshino/config/__bot__.py`, add `genshinkfc` to `MODULES_ON` set and save
+3. Open `hoshino/config/__bot__.py` file , add `genshinkfc` entry to `MODULES_ON` set and save
 
 4. Restart HoshinoBot
 
