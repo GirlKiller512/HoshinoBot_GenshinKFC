@@ -1,5 +1,7 @@
 # HoshinoBot 原神KFC语音插件
 
+[README.md English Ver](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/README_en.md)
+
 能让星乃发出来自二次元的声音（雾）
 
 **（异世相遇，尽享美味！）**
