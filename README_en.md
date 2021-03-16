@@ -1,5 +1,7 @@
 # HoshinoBot Genshin Impact x KFC Voice Plugin
 
+[README.md Chinese Ver](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/README.md)
+
 Let Hoshino utter the voice from the 2D world!
 
 **（Meet in Another World, Savour Deliciousness!）**
