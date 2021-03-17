@@ -6,6 +6,8 @@ Let Hoshino utter the voice from the 2D world!
 
 **（Meet In Another World, Savour Deliciousness!）**
 
+(It is strongly recommended to play the voice with the volume turned up!)
+
 Currently Held Voice:
 
 - Keqing's CV
