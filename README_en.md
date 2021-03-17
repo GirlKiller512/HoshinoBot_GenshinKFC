@@ -12,6 +12,11 @@ Currently Held Voice:
 - Mona's CV
 - Xiangling's CV
 - Paimon's CV
+- keiiying https://space.bilibili.com/437786939
+- Makuma https://space.bilibili.com/2055691
+- Ninico https://space.bilibili.com/8881297
+- Suzune https://space.bilibili.com/39267739
+- Zaoliang https://space.bilibili.com/518817
 
 TODO：
 
