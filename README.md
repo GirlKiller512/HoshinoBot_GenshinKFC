@@ -6,23 +6,26 @@
 
 **（异世相遇，尽享美味！）**
 
-（强烈建议将音量调大播放语音！）
+（强烈建议将音量调大播放语音，真心的！）
 
 目前拥有的音源：
 
-- 刻晴CV
-- 莫娜CV
-- 香菱CV
-- 派蒙CV
-- keii萤 https://space.bilibili.com/437786939
-- 一焰 https://space.bilibili.com/2055691
-- 钉宫妮妮 https://space.bilibili.com/8881297
-- 铃音 https://space.bilibili.com/39267739
-- 早凉 https://space.bilibili.com/518817
+|       音源        |   上传日期    |                           相关链接                           |
+| :---------------: | :-----------: | :----------------------------------------------------------: |
+|  刻晴CV（谢莹）   | 2021年3月13日 |               https://space.bilibili.com/44243               |
+| 莫娜CV（陈婷婷）  | 2021年3月13日 |              https://space.bilibili.com/612788               |
+|   香菱CV（小N）   | 2021年3月16日 | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 |
+| 派蒙CV（多多poi） | 2021年3月16日 | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 |
+|      keii萤       | 2021年3月17日 |             https://space.bilibili.com/437786939             |
+|       一焰        | 2021年3月17日 |              https://space.bilibili.com/2055691              |
+|     钉宫妮妮      | 2021年3月17日 |              https://space.bilibili.com/8881297              |
+|       铃音        | 2021年3月17日 |             https://space.bilibili.com/39267739              |
+|       早凉        | 2021年3月17日 |              https://space.bilibili.com/518817               |
+|     白银莉莉      | 2021年3月17日 |             https://space.bilibili.com/494850406             |
 
 TODO：
 
-- 寻找可莉CV和甘雨CV音源（老实说，很难完成，希望有发现的有缘人给我发一下）
+- 寻找可莉CV（花玲）和甘雨CV（林簌）音源（老实说，很难完成，希望有发现的有缘人给我发一下）
 
 ## 安装方法
 
@@ -70,8 +73,6 @@ TODO：
 **异世相遇，尽享美味！**
 
 ありがとうおにいちゃん，だいすきです！
-
-
 
 ## 语音原文假名转汉字（大雾）
 

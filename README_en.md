@@ -1,36 +1,39 @@
 # HoshinoBot Genshin Impact x KFC Voice Plugin
 
-[README.md中文版](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/README.md)
+[README.md 中文版](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/README.md)
 
 Let Hoshino utter the voice from the 2D world!
 
 **（Meet In Another World, Savour Deliciousness!）**
 
-(It is strongly recommended to play the voice with the volume turned up!)
+(It is strongly recommended to play the voice with the volume turned up, sincerely!)
 
 Currently Held Voice:
 
-- Keqing's CV
-- Mona's CV
-- Xiangling's CV
-- Paimon's CV
-- keiiying https://space.bilibili.com/437786939
-- Makuma https://space.bilibili.com/2055691
-- Ninico https://space.bilibili.com/8881297
-- Suzune https://space.bilibili.com/39267739
-- Zaoliang https://space.bilibili.com/518817
+|                Source                |  Upload Date   |                         Related Link                         |
+| :----------------------------------: | :------------: | :----------------------------------------------------------: |
+|        Keqing's CV (Xie Ying)        | March 13, 2021 |               https://space.bilibili.com/44243               |
+|      Mona's CV (Chen Tingting)       | March 13, 2021 |              https://space.bilibili.com/612788               |
+|  Xiangling's CV (Xiao N, Jiang Li)   | March 16, 2021 | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 |
+| Paimon's CV (Duoduo poi, Shi Xinlei) | March 16, 2021 | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 |
+|               keiiying               | March 17, 2021 |             https://space.bilibili.com/437786939             |
+|                Makuma                | March 17, 2021 |              https://space.bilibili.com/2055691              |
+|                Ninico                | March 17, 2021 |              https://space.bilibili.com/8881297              |
+|                Suzune                | March 17, 2021 |             https://space.bilibili.com/39267739              |
+|               Zaoliang               | March 17, 2021 |              https://space.bilibili.com/518817               |
+|             Baiyin Lili              | March 17, 2021 |             https://space.bilibili.com/494850406             |
 
 TODO：
 
-- Find the voice of Klee's CV and Ganyu's CV
+- Find the voice of Klee's CV (Hualing) and Ganyu's CV (Lin Su)
 
 ## How To Install
 
 1. Install ffmpeg
 
-   Ubuntu：`apt install ffmpeg`
+   Ubuntu: `apt install ffmpeg`
 
-   CentOS：Commands are a little bit complex and I recommend you to look for them by yourself
+   CentOS: Commands are a little bit complex and I recommend you to look for them by yourself
 
 2. Put  `genshinkfc` directory into `hoshino/modules` directory
 
@@ -69,8 +72,6 @@ TODO：
 
 ありがとうおにいちゃん，だいすきです！
 
-
-
 ## Original Text (Kana To Chinese Character, Transliteration)
 
 呐呐呐，服务员欧尼酱~~
@@ -92,8 +93,6 @@ TODO：
 **异世相遇，尽享美味！**
 
 阿里嘎多欧尼酱，带斯ki得斯！
-
-
 
 ## Original Text (All Romanized)
 
