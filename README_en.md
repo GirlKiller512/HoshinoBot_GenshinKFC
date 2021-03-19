@@ -22,6 +22,7 @@ Currently Held Voice:
 |                Suzune                | March 17, 2021 |             https://space.bilibili.com/39267739              |
 |               Zaoliang               | March 17, 2021 |              https://space.bilibili.com/518817               |
 |             Baiyin Lili              | March 17, 2021 |             https://space.bilibili.com/494850406             |
+|            Mitaowei kiki             | March 19, 2021 |              https://space.bilibili.com/7881923              |
 
 TODO：
 
