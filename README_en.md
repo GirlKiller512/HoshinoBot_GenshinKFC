@@ -10,19 +10,19 @@ Let Hoshino utter the voice from the 2D world!
 
 Currently Held Voice:
 
-|                Source                |  Upload Date   |                         Related Link                         |
-| :----------------------------------: | :------------: | :----------------------------------------------------------: |
-|        Keqing's CV (Xie Ying)        | March 13, 2021 |               https://space.bilibili.com/44243               |
-|      Mona's CV (Chen Tingting)       | March 13, 2021 |              https://space.bilibili.com/612788               |
-|  Xiangling's CV (Xiao N, Jiang Li)   | March 16, 2021 | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 |
-| Paimon's CV (Duoduo poi, Shi Xinlei) | March 16, 2021 | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 |
-|               keiiying               | March 17, 2021 |             https://space.bilibili.com/437786939             |
-|                Makuma                | March 17, 2021 |              https://space.bilibili.com/2055691              |
-|                Ninico                | March 17, 2021 |              https://space.bilibili.com/8881297              |
-|                Suzune                | March 17, 2021 |             https://space.bilibili.com/39267739              |
-|               Zaoliang               | March 17, 2021 |              https://space.bilibili.com/518817               |
-|             Baiyin Lili              | March 17, 2021 |             https://space.bilibili.com/494850406             |
-|            Mitaowei kiki             | March 19, 2021 |              https://space.bilibili.com/7881923              |
+|                Source                | Upload Date (UTC+8) |                         Related Link                         |
+| :----------------------------------: | :-----------------: | :----------------------------------------------------------: |
+|        Keqing's CV (Xie Ying)        |   March 13, 2021    |               https://space.bilibili.com/44243               |
+|      Mona's CV (Chen Tingting)       |   March 13, 2021    |              https://space.bilibili.com/612788               |
+|  Xiangling's CV (Xiao N, Jiang Li)   |   March 16, 2021    | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 |
+| Paimon's CV (Duoduo poi, Shi Xinlei) |   March 16, 2021    | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 |
+|               keiiying               |   March 17, 2021    |             https://space.bilibili.com/437786939             |
+|                Makuma                |   March 17, 2021    |              https://space.bilibili.com/2055691              |
+|                Ninico                |   March 17, 2021    |              https://space.bilibili.com/8881297              |
+|                Suzune                |   March 17, 2021    |             https://space.bilibili.com/39267739              |
+|               Zaoliang               |   March 17, 2021    |              https://space.bilibili.com/518817               |
+|             Baiyin Lili              |   March 17, 2021    |             https://space.bilibili.com/494850406             |
+|            Mitaowei kiki             |   March 19, 2021    |              https://space.bilibili.com/7881923              |
 
 TODO：
 
