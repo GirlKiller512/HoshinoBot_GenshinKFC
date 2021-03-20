@@ -1,32 +1,32 @@
 # README.md Chinese Ver
 
-# HoshinoBot 原神KFC语音插件
+# HoshinoBot 原神 x KFC 语音插件
 
 [Click here to read README.md English Ver](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-english-ver)
 
-[README.md日本語版はこちらです](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-japanese-ver)
+[こちらをクリックしてREADME.md日本語版を読みます](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-japanese-ver)
 
-能让星乃发出来自二次元的声音（雾）
+能让星乃发出来自二次元的声音！（雾）
 
 **（异世相遇，尽享美味！）**
 
-（强烈建议将音量调大播放语音，真心的！）
+（强烈建议将音量调大播放语音！）
 
 目前拥有的音源：
 
 |       音源        |   上传日期    |                           相关链接                           |
 | :---------------: | :-----------: | :----------------------------------------------------------: |
-|  刻晴CV（谢莹）   | 2021年3月13日 |               https://space.bilibili.com/44243               |
-| 莫娜CV（陈婷婷）  | 2021年3月13日 |              https://space.bilibili.com/612788               |
-|   香菱CV（小N）   | 2021年3月16日 | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 |
-| 派蒙CV（多多poi） | 2021年3月16日 | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 |
-|      keii萤       | 2021年3月17日 |             https://space.bilibili.com/437786939             |
-|       一焰        | 2021年3月17日 |              https://space.bilibili.com/2055691              |
-|     钉宫妮妮      | 2021年3月17日 |              https://space.bilibili.com/8881297              |
-|       铃音        | 2021年3月17日 |             https://space.bilibili.com/39267739              |
-|       早凉        | 2021年3月17日 |              https://space.bilibili.com/518817               |
-|     白银莉莉      | 2021年3月17日 |             https://space.bilibili.com/494850406             |
-|    蜜桃味kiki     | 2021年3月19日 |              https://space.bilibili.com/7881923              |
+|  刻晴CV（谢莹）   | 2021年3月13日 | https://space.bilibili.com/44243 https://www.bilibili.com/video/BV1ef4y147vK |
+| 莫娜CV（陈婷婷）  | 2021年3月13日 | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
+|   香菱CV（小N）   | 2021年3月16日 | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
+| 派蒙CV（多多poi） | 2021年3月16日 | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
+|      keii萤       | 2021年3月17日 | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
+|       一焰        | 2021年3月17日 | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
+|     钉宫妮妮      | 2021年3月17日 | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
+|       铃音        | 2021年3月17日 | https://space.bilibili.com/39267739 https://www.bilibili.com/video/BV18z4y117q5 |
+|       早凉        | 2021年3月17日 | https://space.bilibili.com/518817 https://www.bilibili.com/video/BV185411K7sq |
+|     白银莉莉      | 2021年3月17日 | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
+|    蜜桃味kiki     | 2021年3月19日 | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
 
 TODO：
 
@@ -107,29 +107,29 @@ TODO：
 
 [点击这里阅读README.md中文版](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-chinese-ver)
 
-[README.md日本語版はこちらです](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-japanese-ver)
+[こちらをクリックしてREADME.md日本語版を読みます](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-japanese-ver)
 
 Let Hoshino utter the voice from the ACG world!
 
 **（Meet In Another World, Savour Deliciousness!）**
 
-(It is strongly recommended to play the voice with the volume turned up, sincerely!)
+(It is strongly recommended to play the voice with the volume turned up!)
 
 Currently Held Voice:
 
 |                Source                | Upload Date (UTC+8) |                         Related Link                         |
 | :----------------------------------: | :-----------------: | :----------------------------------------------------------: |
-|        Keqing's CV (Xie Ying)        |   March 13, 2021    |               https://space.bilibili.com/44243               |
-|      Mona's CV (Chen Tingting)       |   March 13, 2021    |              https://space.bilibili.com/612788               |
-|  Xiangling's CV (Xiao N, Jiang Li)   |   March 16, 2021    | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 |
-| Paimon's CV (Duoduo poi, Shi Xinlei) |   March 16, 2021    | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 |
-|               keiiying               |   March 17, 2021    |             https://space.bilibili.com/437786939             |
-|                Makuma                |   March 17, 2021    |              https://space.bilibili.com/2055691              |
-|                Ninico                |   March 17, 2021    |              https://space.bilibili.com/8881297              |
-|                Suzune                |   March 17, 2021    |             https://space.bilibili.com/39267739              |
-|               Zaoliang               |   March 17, 2021    |              https://space.bilibili.com/518817               |
-|             Baiyin Lili              |   March 17, 2021    |             https://space.bilibili.com/494850406             |
-|            Mitaowei kiki             |   March 19, 2021    |              https://space.bilibili.com/7881923              |
+|        Keqing's CV (Xie Ying)        |   March 13, 2021    | https://space.bilibili.com/44243 https://www.bilibili.com/video/BV1ef4y147vK |
+|      Mona's CV (Chen Tingting)       |   March 13, 2021    | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
+|  Xiangling's CV (Xiao N, Jiang Li)   |   March 16, 2021    | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
+| Paimon's CV (Duoduo poi, Shi Xinlei) |   March 16, 2021    | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
+|               keiiying               |   March 17, 2021    | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
+|                Makuma                |   March 17, 2021    | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
+|                Ninico                |   March 17, 2021    | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
+|                Suzune                |   March 17, 2021    | https://space.bilibili.com/39267739 https://www.bilibili.com/video/BV18z4y117q5 |
+|               Zaoliang               |   March 17, 2021    | https://space.bilibili.com/518817 https://www.bilibili.com/video/BV185411K7sq |
+|             Baiyin Lili              |   March 17, 2021    | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
+|            Mitaowei kiki             |   March 19, 2021    | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
 
 TODO：
 
@@ -214,23 +214,23 @@ Arigatou oniichan, daisuki desu!
 
 **（異世界で巡り会い、美食をともに楽しもう！）**
 
-（大きな音量で音声を再生したらもっと素晴らしいと思いますよ！）
+（大きな音量でボイスを再生したらもっと素晴らしいと思います！）
 
 現在持っているボイス：
 
 |            ボイス             | アップロード日付 (UTC+8) |                          関連リンク                          |
 | :---------------------------: | :----------------------: | :----------------------------------------------------------: |
-| 刻晴（コクセイ）のCV（謝瑩）  |      2021年3月13日       |               https://space.bilibili.com/44243               |
-|      モナのCV（陳婷婷）       |      2021年3月13日       |              https://space.bilibili.com/612788               |
-| 香菱（シャンリン）のCV（小N） |      2021年3月16日       | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 |
-|    パイモンのCV（多多poi）    |      2021年3月16日       | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 |
-|            keii蛍             |      2021年3月17日       |             https://space.bilibili.com/437786939             |
-|             一焔              |      2021年3月17日       |              https://space.bilibili.com/2055691              |
-|            Ninico             |      2021年3月17日       |              https://space.bilibili.com/8881297              |
-|             鈴音              |      2021年3月17日       |             https://space.bilibili.com/39267739              |
-|             早涼              |      2021年3月17日       |              https://space.bilibili.com/518817               |
-|           白銀莉莉            |      2021年3月17日       |             https://space.bilibili.com/494850406             |
-|             kiki              |      2021年3月19日       |              https://space.bilibili.com/7881923              |
+| 刻晴（コクセイ）のCV（謝瑩）  |      2021年3月13日       | https://space.bilibili.com/44243 https://www.bilibili.com/video/BV1ef4y147vK |
+|      モナのCV（陳婷婷）       |      2021年3月13日       | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
+| 香菱（シャンリン）のCV（小N） |      2021年3月16日       | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
+|    パイモンのCV（多多poi）    |      2021年3月16日       | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
+|            keii蛍             |      2021年3月17日       | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
+|             一焔              |      2021年3月17日       | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
+|            Ninico             |      2021年3月17日       | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
+|             鈴音              |      2021年3月17日       | https://space.bilibili.com/39267739 https://www.bilibili.com/video/BV18z4y117q5 |
+|             早涼              |      2021年3月17日       | https://space.bilibili.com/518817 https://www.bilibili.com/video/BV185411K7sq |
+|           白銀莉莉            |      2021年3月17日       | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
+|          蜜桃味kiki           |      2021年3月19日       | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
 
 TODO：
 
@@ -254,7 +254,7 @@ TODO：
 
 |     コマンド     |                             説明                             |
 | :--------------: | :----------------------------------------------------------: |
-|       KFC        | 大文字も小文字もいいです、しかし、全て大文字または全て小文字のことは必要です |
+|       KFC        | 大文字も小文字もいいです、しかし全てのアルファベットが大文字または小文字のことは必要です |
 |     原神KFC      |                             同上                             |
 |    二次元KFC     |                             同上                             |
 | 异世相遇尽享美味 |                                                              |
