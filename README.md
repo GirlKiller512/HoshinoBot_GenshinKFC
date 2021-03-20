@@ -180,28 +180,6 @@ TODO：
 
 ありがとうおにいちゃん，だいすきです！
 
-## Original Text (Kana To Chinese Character, Transliteration)
-
-呐呐呐，服务员欧尼酱~~
-
-诶多捏诶多捏，瓦塔西就是那个，二次元得斯~~
-
-二次元的美好，米娜桑都知道的吧！
-
-达卡拉，人家厚洗一~~
-
-对，那个二次元的徽章~~
-
-哦捏该，瓦塔西斯国库斯ki斯ki达，斯ki那个徽章~~
-
-纳尼？一定要那个口号吗？呜呜呜，哈子卡西一……
-
-得莫，为了超级想要的二次元徽章……瓦塔西会干巴爹！
-
-**异世相遇，尽享美味！**
-
-阿里嘎多欧尼酱，带斯ki得斯！
-
 ## Original Text (All Romanized)
 
 Nenene, fuwuyuan oniichan~~
