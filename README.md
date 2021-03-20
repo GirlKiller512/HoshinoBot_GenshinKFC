@@ -2,7 +2,7 @@
 
 # HoshinoBot 原神KFC语音插件
 
-[Click Here To Read README.md English Ver](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/README.md#readme.md-english-ver)
+[Click Here To Read README.md English Ver](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/README.md#readmemd-english-ver)
 
 能让星乃发出来自二次元的声音（雾）
 
@@ -103,7 +103,7 @@ TODO：
 
 # HoshinoBot Genshin Impact x KFC Voice Plugin
 
-[点击这里阅读README.md中文版](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/README.md#readme.md-chinese-ver)
+[点击这里阅读README.md中文版](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/README.md#readmemd-chinese-ver)
 
 Let Hoshino utter the voice from the ACG world!
 
