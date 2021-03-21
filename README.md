@@ -14,7 +14,11 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 
 （强烈建议将音量调大播放语音！）
 
-目前拥有的音源：
+**功能说明：**
+
+在QQ群发送指定的指令，Bot会随机从`record`目录中选择一条语音回复
+
+**目前拥有的音源：**
 
 |       音源        |   上传日期    |                           相关链接                           |
 | :---------------: | :-----------: | :----------------------------------------------------------: |
@@ -30,7 +34,7 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 |     白银莉莉      | 2021年3月17日 | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
 |    蜜桃味kiki     | 2021年3月19日 | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
 
-TODO：
+**TODO：**
 
 - 寻找可莉CV（花玲）和甘雨CV（林簌）音源（老实说，很难完成，希望有发现的有缘人给我发一下）
 
@@ -119,7 +123,11 @@ Let Hoshino utter the voice from the ACG world!
 
 (It is strongly recommended to play the voice with the volume turned up!)
 
-Currently Held Voice:
+**Function Description:**
+
+Send specified commands in the QQ group and Bot will randomly select a voice to reply
+
+**Currently Held Voice:**
 
 |                Source                | Upload Date (UTC+8) |                         Related Link                         |
 | :----------------------------------: | :-----------------: | :----------------------------------------------------------: |
@@ -135,7 +143,7 @@ Currently Held Voice:
 |             Baiyin Lili              |   March 17, 2021    | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
 |            Mitaowei kiki             |   March 19, 2021    | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
 
-TODO：
+**TODO：**
 
 - Find the voice of Klee's CV (Hualing) and Ganyu's CV (Lin Su)
 
@@ -222,7 +230,11 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 
 （大きな音量でボイスを再生したらもっと素晴らしいと思います！）
 
-現在持っているボイス：
+**機能説明：**
+
+QQグループに指定されたコマンドを送信して、Botはランダムに`record`ディレクトリから選択されたボイスを返信する
+
+**現在持っているボイス：**
 
 |            ボイス             | アップロード日付 (UTC+8) |                          関連リンク                          |
 | :---------------------------: | :----------------------: | :----------------------------------------------------------: |
@@ -238,7 +250,7 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 |           白銀莉莉            |      2021年3月17日       | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
 |          蜜桃味kiki           |      2021年3月19日       | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
 
-TODO：
+**TODO：**
 
 - クレーのCVと甘雨（カンウ）のCVのボイスを探す
 
