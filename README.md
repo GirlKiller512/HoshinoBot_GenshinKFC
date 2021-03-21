@@ -6,6 +6,8 @@
 
 [こちらをクリックしてREADME.md日本語版を読みます](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-japanese-ver)
 
+HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno/HoshinoBot
+
 能让星乃发出来自二次元的声音！（雾）
 
 **（异世相遇，尽享美味！）**
@@ -109,6 +111,8 @@ TODO：
 
 [こちらをクリックしてREADME.md日本語版を読みます](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-japanese-ver)
 
+HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno/HoshinoBot
+
 Let Hoshino utter the voice from the ACG world!
 
 **（Meet In Another World, Savour Deliciousness!）**
@@ -209,6 +213,8 @@ Arigatou oniichan, daisuki desu!
 [点击这里阅读README.md中文版](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-chinese-ver)
 
 [Click here to read README.md English Ver](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-english-ver)
+
+HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno/HoshinoBot
 
 星乃に二次元からの声を出させて！
 
