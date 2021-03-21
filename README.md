@@ -250,7 +250,7 @@ QQグループに指定されたコマンドを送信して、Botはランダム
     <img width="540" src="https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/Screenshot1.jpg">
 </div>
 
-（これは刻晴（クコセイ）のCVのボイスです）
+（これは刻晴（コクセイ）のCVのボイスです）
 
 **現在持っているボイス：**
 
