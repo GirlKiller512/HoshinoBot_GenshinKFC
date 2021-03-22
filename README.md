@@ -38,6 +38,7 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 | 莫娜CV（陈婷婷）  | 2021年3月13日 | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
 |   香菱CV（小N）   | 2021年3月16日 | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
 | 派蒙CV（多多poi） | 2021年3月16日 | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
+|  甘雨CV（林簌）   | 2021年3月22日 | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
 |      keii萤       | 2021年3月17日 | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
 |       一焰        | 2021年3月17日 | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
 |     钉宫妮妮      | 2021年3月17日 | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
@@ -48,7 +49,7 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 
 **TODO：**
 
-- 寻找可莉CV（花玲）和甘雨CV（林簌）音源（老实说，很难完成，希望有发现的有缘人给我发一下）
+- 寻找可莉CV（花玲）音源
 
 ## 安装方法
 
@@ -175,6 +176,7 @@ Send specified commands in the QQ group and Bot will randomly select a voice fro
 |      Mona's CV (Chen Tingting)       |   March 13, 2021    | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
 |  Xiangling's CV (Xiao N, Jiang Li)   |   March 16, 2021    | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
 | Paimon's CV (Duoduo poi, Shi Xinlei) |   March 16, 2021    | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
+|  Ganyu's CV（Lin Su, Tang Suling）   |   March 22, 2021    | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
 |               keiiying               |   March 17, 2021    | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
 |                Makuma                |   March 17, 2021    | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
 |                Ninico                |   March 17, 2021    | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
@@ -185,7 +187,7 @@ Send specified commands in the QQ group and Bot will randomly select a voice fro
 
 **TODO：**
 
-- Find the voice of Klee's CV (Hualing) and Ganyu's CV (Lin Su)
+- Find the voice of Klee's CV (Hualing)
 
 ## How To Install
 
@@ -310,6 +312,7 @@ QQグループに指定されたコマンドを送信して、Botはランダム
 |      モナのCV（陳婷婷）       |      2021年3月13日       | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
 | 香菱（シャンリン）のCV（小N） |      2021年3月16日       | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
 |    パイモンのCV（多多poi）    |      2021年3月16日       | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
+|  甘雨（カンウ）のCV（林簌）   |      2021年3月22日       | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
 |            keii蛍             |      2021年3月17日       | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
 |             一焔              |      2021年3月17日       | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
 |            Ninico             |      2021年3月17日       | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
@@ -320,7 +323,7 @@ QQグループに指定されたコマンドを送信して、Botはランダム
 
 **TODO：**
 
-- クレーのCVと甘雨（カンウ）のCVのボイスを探す
+- クレーのCVのボイスを探す
 
 ## インストール方法
 
