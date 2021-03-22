@@ -30,20 +30,20 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 
 **目前拥有的音源：**
 
-|       音源        |   上传日期    |                           相关链接                           |
-| :---------------: | :-----------: | :----------------------------------------------------------: |
-|  刻晴CV（谢莹）   | 2021年3月13日 | https://space.bilibili.com/44243 https://www.bilibili.com/video/BV1ef4y147vK |
-| 莫娜CV（陈婷婷）  | 2021年3月13日 | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
-|   香菱CV（小N）   | 2021年3月16日 | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
-| 派蒙CV（多多poi） | 2021年3月16日 | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
-|  甘雨CV（林簌）   | 2021年3月22日 | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
-|      keii萤       | 2021年3月17日 | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
-|       一焰        | 2021年3月17日 | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
-|     钉宫妮妮      | 2021年3月17日 | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
-|       铃音        | 2021年3月17日 | https://space.bilibili.com/39267739 https://www.bilibili.com/video/BV18z4y117q5 |
-|       早凉        | 2021年3月17日 | https://space.bilibili.com/518817 https://www.bilibili.com/video/BV185411K7sq |
-|     白银莉莉      | 2021年3月17日 | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
-|    蜜桃味kiki     | 2021年3月19日 | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
+|       音源        |         格式          |   上传日期    |                           相关链接                           |
+| :---------------: | :-------------------: | :-----------: | :----------------------------------------------------------: |
+|  刻晴CV（谢莹）   | MP3 192Kbps 48KHz CBR | 2021年3月13日 | https://space.bilibili.com/44243 https://www.bilibili.com/video/BV1ef4y147vK |
+| 莫娜CV（陈婷婷）  | MP3 192Kbps 48KHz CBR | 2021年3月13日 | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
+|   香菱CV（小N）   | MP3 192Kbps 48KHz CBR | 2021年3月16日 | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
+| 派蒙CV（多多poi） | MP3 192Kbps 48KHz CBR | 2021年3月16日 | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
+|  甘雨CV（林簌）   | MP3 192Kbps 48KHz CBR | 2021年3月22日 | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
+|      keii萤       | MP3 192Kbps 48KHz CBR | 2021年3月17日 | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
+|       一焰        | MP3 192Kbps 48KHz CBR | 2021年3月17日 | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
+|     钉宫妮妮      | MP3 192Kbps 48KHz CBR | 2021年3月17日 | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
+|       铃音        | MP3 192Kbps 48KHz CBR | 2021年3月17日 | https://space.bilibili.com/39267739 https://www.bilibili.com/video/BV18z4y117q5 |
+|       早凉        | MP3 192Kbps 48KHz CBR | 2021年3月17日 | https://space.bilibili.com/518817 https://www.bilibili.com/video/BV185411K7sq |
+|     白银莉莉      | MP3 192Kbps 48KHz CBR | 2021年3月17日 | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
+|    蜜桃味kiki     | MP3 192Kbps 48KHz CBR | 2021年3月19日 | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
 
 **TODO：**
 
@@ -166,20 +166,20 @@ Send specified commands in the QQ group and Bot will randomly select a voice fro
 
 **Currently Held Voice:**
 
-|                Source                | Upload Date (UTC+8) |                         Related Link                         |
-| :----------------------------------: | :-----------------: | :----------------------------------------------------------: |
-|        Keqing's CV (Xie Ying)        |   March 13, 2021    | https://space.bilibili.com/44243 https://www.bilibili.com/video/BV1ef4y147vK |
-|      Mona's CV (Chen Tingting)       |   March 13, 2021    | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
-|  Xiangling's CV (Xiao N, Jiang Li)   |   March 16, 2021    | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
-| Paimon's CV (Duoduo poi, Shi Xinlei) |   March 16, 2021    | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
-|  Ganyu's CV（Lin Su, Tang Suling）   |   March 22, 2021    | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
-|               keiiying               |   March 17, 2021    | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
-|                Makuma                |   March 17, 2021    | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
-|                Ninico                |   March 17, 2021    | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
-|                Suzune                |   March 17, 2021    | https://space.bilibili.com/39267739 https://www.bilibili.com/video/BV18z4y117q5 |
-|               Zaoliang               |   March 17, 2021    | https://space.bilibili.com/518817 https://www.bilibili.com/video/BV185411K7sq |
-|             Baiyin Lili              |   March 17, 2021    | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
-|            Mitaowei kiki             |   March 19, 2021    | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
+|                Source                |        Format         | Upload Date (UTC+8) |                         Related Link                         |
+| :----------------------------------: | :-------------------: | :-----------------: | :----------------------------------------------------------: |
+|        Keqing's CV (Xie Ying)        | MP3 192Kbps 48KHz CBR |   March 13, 2021    | https://space.bilibili.com/44243 https://www.bilibili.com/video/BV1ef4y147vK |
+|      Mona's CV (Chen Tingting)       | MP3 192Kbps 48KHz CBR |   March 13, 2021    | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
+|  Xiangling's CV (Xiao N, Jiang Li)   | MP3 192Kbps 48KHz CBR |   March 16, 2021    | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
+| Paimon's CV (Duoduo poi, Shi Xinlei) | MP3 192Kbps 48KHz CBR |   March 16, 2021    | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
+|  Ganyu's CV（Lin Su, Tang Suling）   | MP3 192Kbps 48KHz CBR |   March 22, 2021    | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
+|               keiiying               | MP3 192Kbps 48KHz CBR |   March 17, 2021    | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
+|                Makuma                | MP3 192Kbps 48KHz CBR |   March 17, 2021    | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
+|                Ninico                | MP3 192Kbps 48KHz CBR |   March 17, 2021    | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
+|                Suzune                | MP3 192Kbps 48KHz CBR |   March 17, 2021    | https://space.bilibili.com/39267739 https://www.bilibili.com/video/BV18z4y117q5 |
+|               Zaoliang               | MP3 192Kbps 48KHz CBR |   March 17, 2021    | https://space.bilibili.com/518817 https://www.bilibili.com/video/BV185411K7sq |
+|             Baiyin Lili              | MP3 192Kbps 48KHz CBR |   March 17, 2021    | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
+|            Mitaowei kiki             | MP3 192Kbps 48KHz CBR |   March 19, 2021    | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
 
 **TODO：**
 
@@ -300,20 +300,20 @@ QQグループに指定されたコマンドを送信して、Botはランダム
 
 **現在持っているボイス：**
 
-|            ボイス             | アップロード日付 (UTC+8) |                          関連リンク                          |
-| :---------------------------: | :----------------------: | :----------------------------------------------------------: |
-| 刻晴（コクセイ）のCV（謝瑩）  |      2021年3月13日       | https://space.bilibili.com/44243 https://www.bilibili.com/video/BV1ef4y147vK |
-|      モナのCV（陳婷婷）       |      2021年3月13日       | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
-| 香菱（シャンリン）のCV（小N） |      2021年3月16日       | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
-|    パイモンのCV（多多poi）    |      2021年3月16日       | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
-|  甘雨（カンウ）のCV（林簌）   |      2021年3月22日       | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
-|            keii蛍             |      2021年3月17日       | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
-|             一焔              |      2021年3月17日       | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
-|            Ninico             |      2021年3月17日       | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
-|             鈴音              |      2021年3月17日       | https://space.bilibili.com/39267739 https://www.bilibili.com/video/BV18z4y117q5 |
-|             早涼              |      2021年3月17日       | https://space.bilibili.com/518817 https://www.bilibili.com/video/BV185411K7sq |
-|           白銀莉莉            |      2021年3月17日       | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
-|          蜜桃味kiki           |      2021年3月19日       | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
+|            ボイス             |     フォーマット      | アップロード日付 (UTC+8) |                          関連リンク                          |
+| :---------------------------: | :-------------------: | :----------------------: | :----------------------------------------------------------: |
+| 刻晴（コクセイ）のCV（謝瑩）  | MP3 192Kbps 48KHz CBR |      2021年3月13日       | https://space.bilibili.com/44243 https://www.bilibili.com/video/BV1ef4y147vK |
+|      モナのCV（陳婷婷）       | MP3 192Kbps 48KHz CBR |      2021年3月13日       | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
+| 香菱（シャンリン）のCV（小N） | MP3 192Kbps 48KHz CBR |      2021年3月16日       | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
+|    パイモンのCV（多多poi）    | MP3 192Kbps 48KHz CBR |      2021年3月16日       | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
+|  甘雨（カンウ）のCV（林簌）   | MP3 192Kbps 48KHz CBR |      2021年3月22日       | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
+|            keii蛍             | MP3 192Kbps 48KHz CBR |      2021年3月17日       | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
+|             一焔              | MP3 192Kbps 48KHz CBR |      2021年3月17日       | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
+|            Ninico             | MP3 192Kbps 48KHz CBR |      2021年3月17日       | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
+|             鈴音              | MP3 192Kbps 48KHz CBR |      2021年3月17日       | https://space.bilibili.com/39267739 https://www.bilibili.com/video/BV18z4y117q5 |
+|             早涼              | MP3 192Kbps 48KHz CBR |      2021年3月17日       | https://space.bilibili.com/518817 https://www.bilibili.com/video/BV185411K7sq |
+|           白銀莉莉            | MP3 192Kbps 48KHz CBR |      2021年3月17日       | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
+|          蜜桃味kiki           | MP3 192Kbps 48KHz CBR |      2021年3月19日       | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
 
 **TODO：**
 
