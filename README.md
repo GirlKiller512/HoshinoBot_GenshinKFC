@@ -159,7 +159,7 @@ Let Hoshino utter the voice from the ACG world!
 
 **Function Description:**
 
-Send specified commands in the QQ group and Bot will randomly select a voice to reply
+Send specified commands in the QQ group and Bot will randomly select a voice from `record` directory to reply
 
 <div>
     <img width="540" src="https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/Screenshot1.jpg">
