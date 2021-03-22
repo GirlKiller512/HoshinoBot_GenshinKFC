@@ -24,9 +24,7 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 
 在QQ群发送指定的指令，Bot会随机从`record`目录中选择一条语音回复
 
-<div>
-    <img width="540" src="https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/Screenshot1.jpg">
-</div>
+![Screenshot](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/Screenshot1.jpg)
 
 （这是刻晴CV的音源）
 
@@ -162,9 +160,7 @@ Let Hoshino utter the voice from the ACG world!
 
 Send specified commands in the QQ group and Bot will randomly select a voice from `record` directory to reply
 
-<div>
-    <img width="540" src="https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/Screenshot1.jpg">
-</div>
+![Screenshot](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/Screenshot1.jpg)
 
 (This is Keqing's CV's voice)
 
@@ -298,9 +294,7 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 
 QQグループに指定されたコマンドを送信して、Botはランダムに`record`ディレクトリから選択されたボイスを返信する
 
-<div>
-    <img width="540" src="https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/Screenshot1.jpg">
-</div>
+![Screenshot](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC/blob/main/Screenshot1.jpg)
 
 （これは刻晴（コクセイ）のCVのボイスです）
 
