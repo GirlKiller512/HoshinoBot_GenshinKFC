@@ -6,7 +6,7 @@
 
 [こちらをクリックしてREADME.md日本語版を読みます](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-japanese-ver)
 
-### 上次更新日期：2021年3月24日
+### 上次更新日期：2021年3月30日
 
 HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno/HoshinoBot
 
@@ -34,12 +34,13 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 
 |       音源        |         格式          |          上传日期          |                           相关链接                           |
 | :---------------: | :-------------------: | :------------------------: | :----------------------------------------------------------: |
-|       莉莎        |  FLAC 24位PCM 48KHz   | （不可能上传的，别做梦了） |              https://space.bilibili.com/1723811              |
+|       莉莎        |  FLAC 24位PCM 48KHz   | （不可能上传的，别做梦了） | https://space.bilibili.com/1723811 https://bbs.nga.cn/nuke.php?func=ucp&uid=60581499 |
 |  刻晴CV（谢莹）   | MP3 192Kbps 48KHz CBR |       2021年3月13日        | https://space.bilibili.com/44243 https://www.bilibili.com/video/BV1ef4y147vK |
 | 莫娜CV（陈婷婷）  | MP3 192Kbps 48KHz CBR |       2021年3月13日        | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
 |   香菱CV（小N）   | MP3 192Kbps 48KHz CBR |       2021年3月16日        | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
 | 派蒙CV（多多poi） | MP3 192Kbps 48KHz CBR |       2021年3月16日        | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
 |  甘雨CV（林簌）   | MP3 192Kbps 48KHz CBR |       2021年3月22日        | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
+| 安柏CV（蔡书瑾）  | MP3 192Kbps 48KHz CBR |       2021年3月30日        | https://space.bilibili.com/519566923 https://www.bilibili.com/video/BV12p4y1b76s |
 |      keii萤       | MP3 192Kbps 48KHz CBR |       2021年3月17日        | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
 |       一焰        | MP3 192Kbps 48KHz CBR |       2021年3月17日        | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
 |     钉宫妮妮      | MP3 192Kbps 48KHz CBR |       2021年3月17日        | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
@@ -152,7 +153,7 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 
 [こちらをクリックしてREADME.md日本語版を読みます](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-japanese-ver)
 
-### Last Update Date: March 24, 2021 (UTC+8)
+### Last Update Date: March 30, 2021 (UTC+8)
 
 HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno/HoshinoBot
 
@@ -174,12 +175,13 @@ Send specified commands in the QQ group and Bot will randomly select a voice fro
 
 |                Source                |        Format         |           Upload Date (UTC+8)            |                         Related Link                         |
 | :----------------------------------: | :-------------------: | :--------------------------------------: | :----------------------------------------------------------: |
-|                 Liza                 | FLAC 24-bit PCM 48KHz | (Upload is impossible and stop dreaming) |              https://space.bilibili.com/1723811              |
+|                 Liza                 | FLAC 24-bit PCM 48KHz | (Upload is impossible and stop dreaming) | https://space.bilibili.com/1723811 https://bbs.nga.cn/nuke.php?func=ucp&uid=60581499 |
 |        Keqing's CV (Xie Ying)        | MP3 192Kbps 48KHz CBR |              March 13, 2021              | https://space.bilibili.com/44243 https://www.bilibili.com/video/BV1ef4y147vK |
 |      Mona's CV (Chen Tingting)       | MP3 192Kbps 48KHz CBR |              March 13, 2021              | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
 |  Xiangling's CV (Xiao N, Jiang Li)   | MP3 192Kbps 48KHz CBR |              March 16, 2021              | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
 | Paimon's CV (Duoduo poi, Shi Xinlei) | MP3 192Kbps 48KHz CBR |              March 16, 2021              | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
-|  Ganyu's CV（Lin Su, Tang Suling）   | MP3 192Kbps 48KHz CBR |              March 22, 2021              | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
+|   Ganyu's CV (Lin Su, Tang Suling)   | MP3 192Kbps 48KHz CBR |              March 22, 2021              | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
+|       Amber's CV (Cai Shujin)        | MP3 192Kbps 48KHz CBR |              March 30, 2021              | https://space.bilibili.com/519566923 https://www.bilibili.com/video/BV12p4y1b76s |
 |               keiiying               | MP3 192Kbps 48KHz CBR |              March 17, 2021              | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
 |                Makuma                | MP3 192Kbps 48KHz CBR |              March 17, 2021              | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
 |                Ninico                | MP3 192Kbps 48KHz CBR |              March 17, 2021              | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
@@ -290,7 +292,7 @@ Arigatou oniichan, daisuki desu!
 
 [Click here to read README.md English Ver](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-english-ver)
 
-### 前回更新日：2021年3月24日 (UTC+8)
+### 前回更新日：2021年3月30日 (UTC+8)
 
 HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno/HoshinoBot
 
@@ -312,12 +314,13 @@ QQグループに指定されたコマンドを送信して、Botはランダム
 
 |            ボイス             |     フォーマット      |        アップロード日 (UTC+8)        |                          関連リンク                          |
 | :---------------------------: | :-------------------: | :----------------------------------: | :----------------------------------------------------------: |
-|             莉莎              | FLAC 24-bit PCM 48KHz | （アップロードは不可能、夢を見るな） |              https://space.bilibili.com/1723811              |
+|             莉莎              | FLAC 24-bit PCM 48KHz | （アップロードは不可能、夢を見るな） | https://space.bilibili.com/1723811 https://bbs.nga.cn/nuke.php?func=ucp&uid=60581499 |
 | 刻晴（コクセイ）のCV（謝瑩）  | MP3 192Kbps 48KHz CBR |            2021年3月13日             | https://space.bilibili.com/44243 https://www.bilibili.com/video/BV1ef4y147vK |
 |      モナのCV（陳婷婷）       | MP3 192Kbps 48KHz CBR |            2021年3月13日             | https://space.bilibili.com/612788 https://www.bilibili.com/video/BV1Ny4y1E7dw |
 | 香菱（シャンリン）のCV（小N） | MP3 192Kbps 48KHz CBR |            2021年3月16日             | https://space.bilibili.com/249118 https://space.bilibili.com/5126045 https://www.bilibili.com/video/BV1WV411Y782 |
 |    パイモンのCV（多多poi）    | MP3 192Kbps 48KHz CBR |            2021年3月16日             | https://space.bilibili.com/11253297 https://space.bilibili.com/534963525 https://www.bilibili.com/video/BV1s5411K7mX |
 |  甘雨（カンウ）のCV（林簌）   | MP3 192Kbps 48KHz CBR |            2021年3月22日             | https://space.bilibili.com/7223194 https://www.bilibili.com/video/BV1v5411P7eR |
+|    アンバーのCV（蔡書瑾）     | MP3 192Kbps 48KHz CBR |            2021年3月30日             | https://space.bilibili.com/519566923 https://www.bilibili.com/video/BV12p4y1b76s |
 |            keii蛍             | MP3 192Kbps 48KHz CBR |            2021年3月17日             | https://space.bilibili.com/437786939 https://www.bilibili.com/video/BV1hh411Q7Fa |
 |             一焔              | MP3 192Kbps 48KHz CBR |            2021年3月17日             | https://space.bilibili.com/2055691 https://www.bilibili.com/video/BV14A411T74t |
 |            Ninico             | MP3 192Kbps 48KHz CBR |            2021年3月17日             | https://space.bilibili.com/8881297 https://www.bilibili.com/video/BV1WA411T76k |
