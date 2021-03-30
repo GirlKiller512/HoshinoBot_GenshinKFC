@@ -60,9 +60,16 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 
    Ubuntu：`apt install ffmpeg`
 
-   CentOS：比较复杂，建议自行查找方法
+   CentOS：
 
-   （我用的是Ubuntu 20.04所以懒得找CentOS的安装方法）（小声）
+   ```shell
+   yum install epel-release
+   
+   rpm -v --import http://li.nux.ro/download/nux/RPM-GPG-KEY-nux.ro
+   rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-5.el7.nux.noarch.rpm
+   
+   yum install ffmpeg ffmpeg-devel
+   ```
 
 2. 将`genshinkfc`目录放入`hoshino/modules`目录中
 
@@ -201,7 +208,16 @@ Send specified commands in the QQ group and Bot will randomly select a voice fro
 
    Ubuntu: `apt install ffmpeg`
 
-   CentOS: Commands are a little bit complex and I recommend you to look for them by yourself
+   CentOS:
+
+   ```shell
+   yum install -y epel-release
+   
+   rpm -v --import http://li.nux.ro/download/nux/RPM-GPG-KEY-nux.ro
+   rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-5.el7.nux.noarch.rpm
+   
+   yum install ffmpeg ffmpeg-devel
+   ```
 
 2. Put  `genshinkfc` directory into `hoshino/modules` directory
 
@@ -340,7 +356,16 @@ QQグループに指定されたコマンドを送信して、Botはランダム
 
    Ubuntu：`apt install ffmpeg`
 
-   CentOS：コマンドは難しいので、インストール方法を自分で探すことをすすめます
+   CentOS：
+
+   ```shell
+   yum install -y epel-release
+   
+   rpm -v --import http://li.nux.ro/download/nux/RPM-GPG-KEY-nux.ro
+   rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-5.el7.nux.noarch.rpm
+   
+   yum install ffmpeg ffmpeg-devel
+   ```
 
 2. `hoshino/modules`ディレクトリに`genshinkfc`ディレクトリを入れます
 
