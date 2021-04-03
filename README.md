@@ -6,7 +6,7 @@
 
 [こちらをクリックしてREADME.md日本語版を読みます](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-japanese-ver)
 
-### 上次更新日期：2021年3月30日
+### 上次更新日期：2021年4月3日
 
 HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno/HoshinoBot
 
@@ -49,6 +49,7 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 |     白银莉莉      | MP3 192Kbps 48KHz CBR |       2021年3月17日        | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
 |    蜜桃味kiki     | MP3 192Kbps 48KHz CBR |       2021年3月19日        | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
 |       小柔        | MP3 192Kbps 48KHz CBR |       2021年3月24日        | https://space.bilibili.com/1734978373 https://space.bilibili.com/473764233 https://www.bilibili.com/video/BV1GK4y1T7uV |
+|    步玎Pudding    | MP3 192Kbps 48KHz CBR |        2021年4月3日        | https://space.bilibili.com/416622817 https://www.bilibili.com/video/BV1Jh411U77w |
 
 **TODO：**
 
@@ -160,7 +161,7 @@ HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno
 
 [こちらをクリックしてREADME.md日本語版を読みます](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-japanese-ver)
 
-### Last Update Date: March 30, 2021 (UTC+8)
+### Last Update Date: April 3, 2021 (UTC+8)
 
 HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno/HoshinoBot
 
@@ -197,6 +198,7 @@ Send specified commands in the QQ group and Bot will randomly select a voice fro
 |             Baiyin Lili              | MP3 192Kbps 48KHz CBR |              March 17, 2021              | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
 |            Mitaowei kiki             | MP3 192Kbps 48KHz CBR |              March 19, 2021              | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
 |               Xiaorou                | MP3 192Kbps 48KHz CBR |              March 24, 2021              | https://space.bilibili.com/1734978373 https://space.bilibili.com/473764233 https://www.bilibili.com/video/BV1GK4y1T7uV |
+|            Buding Pudding            | MP3 192Kbps 48KHz CBR |              April 3, 2021               | https://space.bilibili.com/416622817 https://www.bilibili.com/video/BV1Jh411U77w |
 
 **TODO：**
 
@@ -308,7 +310,7 @@ Arigatou oniichan, daisuki desu!
 
 [Click here to read README.md English Ver](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC#readmemd-english-ver)
 
-### 前回更新日：2021年3月30日 (UTC+8)
+### 前回更新日：2021年4月3日 (UTC+8)
 
 HoshinoBot, a QQ bot for Princess Connect! Re:Dive: https://github.com/Ice-Cirno/HoshinoBot
 
@@ -345,6 +347,7 @@ QQグループに指定されたコマンドを送信して、Botはランダム
 |           白銀莉莉            | MP3 192Kbps 48KHz CBR |            2021年3月17日             | https://space.bilibili.com/494850406 https://www.bilibili.com/video/BV1gi4y1K738 |
 |          蜜桃味kiki           | MP3 192Kbps 48KHz CBR |            2021年3月19日             | https://space.bilibili.com/7881923 https://www.bilibili.com/video/BV1d5411A7z9 |
 |             小柔              | MP3 192Kbps 48KHz CBR |            2021年3月24日             | https://space.bilibili.com/1734978373 https://space.bilibili.com/473764233 https://www.bilibili.com/video/BV1GK4y1T7uV |
+|          步玎Pudding          | MP3 192Kbps 48KHz CBR |             2021年4月3日             | https://space.bilibili.com/416622817 https://www.bilibili.com/video/BV1Jh411U77w |
 
 **TODO：**
 
